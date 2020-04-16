@@ -1,0 +1,4 @@
+2019-08-16 Friday 15:32:00  generate_log.py : INFO  logger info message
+2019-08-16 Friday 15:32:00  generate_log.py : WARNING  logger warning message
+2019-08-16 Friday 15:32:00  generate_log.py : ERROR  logger error message
+2019-08-16 Friday 15:32:00  generate_log.py : CRITICAL  logger critical message
